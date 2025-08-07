@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/Z4/AWH3YHD5IV3PKI8K652AIJ.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/T8/JUKV0ZHAKMVK267HU1S9BU.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/LH/38XPVNXE0JO67ZWXFUYZ7F.uasset",
+				"C:/Users/sajal/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset"
+			]
+		}
+	]
+}
